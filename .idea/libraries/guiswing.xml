@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guiswing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/guiswing_jar/guiswing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
